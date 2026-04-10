@@ -3,16 +3,14 @@
 ---
 
 CHAPITRE I — FINALITÉ (F)
-Décrit le système logiciel LeBrigade
-> Conçu pour un environnement d’administration système d'exploitation administré, terminologiques et structurels d’un manuel militaire restreint.
-
+> Décrit le système LeBrigade
+- Conçu pour un environnement d’administration d'un ystème d'exploitation administré, terminologiques et structurels.
 - Fonctionnalité liée à une institution.  
 - Toute référence militaire est strictement privée.
 ---
 
 CHAPITRE II — OBJECTIFS (O)
-Le système vise à :
-
+> Le système vise à :
 - fournir une interface TUI immersive et structurée  
 - centraliser des modules thématiques OPS / RENS / COMSEC  
 - offrir une expérience “console restreinte” fictive  
@@ -22,8 +20,7 @@ Le système vise à :
 ---
 
 CHAPITRE III — MISSION (M)
-L’utilisateur doit être capable de :
-
+> L’utilisateur doit être capable de :
 - initier la console  
 - naviguer entre les modules  
 - interpréter les informations affichées  
@@ -53,8 +50,8 @@ CHAPITRE IV — EXÉCUTION (E)
 ::
 
     ┌──────────────────────────────────────────────────────────────┐
-    │   LeBrigade – Console OPS/RENS/COMSEC (Fictive)              │
-    │   Classification : DIFFUSION RESTREINTE LOGICIELLE – DRL‑01  │
+    │   LeBrigade – Plateforme OPSRENS/COMSEC                                 │
+    │   Classification : DIFFUSION RESTREINTE – DRL‑01  │
     ├──────────────────────────────────────────────────────────────┤
     │ 1. Supervision OPS                                           │
     │ 2. Module RENS                                               │
