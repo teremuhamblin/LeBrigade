@@ -1,0 +1,43 @@
+STRUCTURES DU DÉPÔT 
+
+```text
+EBrigade-OS-V2/
+│
+├── ROADMAP.md
+├── CHANGELOG.md
+├── RELEASE_NOTES.md
+├── POLICY.md
+├── SECURITY-POLICY.md
+├── CONTRIBUTING.md
+├── CODEOWNERS
+│
+├── scripts/
+│   ├── README.md
+│   ├── init.sh
+│   ├── config.sh
+│   ├── security.sh
+│   ├── deploy.sh
+│   └── update.sh
+│
+├── modules/
+│   ├── system.sh
+│   ├── network.sh
+│   ├── audit.sh
+│   ├── users.sh
+│   └── backup.sh
+│
+├── assets/
+│   ├── README.md
+│   ├── icons/
+│   ├── wallpapers/
+│   └── sounds/
+│
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    │   ├── bug_report.md
+    │   ├── feature_request.md
+    │   └── military_discussion.md
+    ├── pull_request_template.md
+    └── workflows/
+        └── ci.yml
+```
