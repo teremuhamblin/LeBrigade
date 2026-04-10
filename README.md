@@ -1,4 +1,6 @@
-# ★  L E B R I G A D E  ★                            
+<p align="crnter">
+L e B r i g a d e
+</p>                          
 
 ---
 
