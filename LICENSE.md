@@ -66,7 +66,8 @@ Clause COMSEC / SECOPS
 
 ---
 
-### 📎 ARTICLE 4 — Référence
+### 📎 ARTICLE 4
+- Référence
 - Licence privée
 
 ---
@@ -74,13 +75,13 @@ Clause COMSEC / SECOPS
 ### 🎖️ FIN DU DOCUMENT
 - FORMATAGE LÉGION ÉTRANGÈRE 
 
-`
+```text
 ───────────────────────────────────────────────────────────────
 - LeBrigade – Section Logicielle
 - Diffusion : Restreinte 
 - Classification : Légion Étrangère 
 - Domaine des Armées – SITREP
 ───────────────────────────────────────────────────────────────
-`
+```
 
 ---
