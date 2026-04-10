@@ -6,8 +6,10 @@ labels: ["discussion"]
 assignees: ""
 ---
 
-# 🟩 Centre de Discussion – *Unité Logicielle LeBrigade*
-### *OPS / RENS / COMSEC – Échanges non‑opérationnels (fictif)*
+# 🟩 Centre de Discussion
+>*Unité Logicielle EBrigade*
+### *OPSRENS / COMSEC
+>Échanges non‑opérationnels*
 
 ---
 
