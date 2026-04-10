@@ -1,0 +1,17 @@
+# 🟩 CODEOWNERS — EBrigade OS V2
+# Unité Logicielle LeBrigade – Attribution des responsabilités (fictif)
+
+# Dossier principal
+/ @Teremu
+
+# Scripts Bash
+/scripts/ @Teremu
+
+# Assets graphiques et TUI
+/assets/ @Teremu
+
+# Documentation
+/docs/ @Teremu
+
+# Fichiers système
+/*.md @Teremu
