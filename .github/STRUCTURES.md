@@ -1,15 +1,10 @@
 STRUCTURES DU DÉPÔT 
 
 ```text
-EBrigade-OS-V2/
+EBrigade/
 │
 ├── ROADMAP.md
 ├── CHANGELOG.md
-├── RELEASE_NOTES.md
-├── POLICY.md
-├── SECURITY-POLICY.md
-├── CONTRIBUTING.md
-├── CODEOWNERS
 │
 ├── scripts/
 │   ├── README.md
