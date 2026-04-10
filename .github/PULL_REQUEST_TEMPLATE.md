@@ -1,5 +1,7 @@
-# 🟩 Pull Request — *EBrigade OS V2*
-### *Unité Logicielle LeBrigade – Section Développement*
+# 🟩 Pull Request
+>*EBrigade OS V2*
+### *Unité Logicielle LeBrigade
+>*Section Développement*
 
 ---
 
@@ -35,7 +37,7 @@ Décris les modifications principales :
 
 ---
 
-## 🛡️ Section OPS / RENS / COMSEC (fictif)
+## 🛡️ Section OPSRENS / COMSEC
 - [ ] OPS — stabilité opérationnelle  
 - [ ] RENS — intégrité des données système  
 - [ ] COMSEC — sécurité / permissions  
@@ -48,7 +50,7 @@ Ajoute ici les éléments utiles.
 ---
 
 ## ✔️ Checklist avant fusion
-- [ ] Code conforme au style LeBrigade  
+- [ ] Code conforme au style EBrigade  
 - [ ] Pas de régression  
 - [ ] Documentation mise à jour  
 - [ ] Tests validés  
