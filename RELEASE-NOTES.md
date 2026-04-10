@@ -1,13 +1,15 @@
-# 🟩 RELEASE NOTES — EBrigade OS V2
+# 🟩 RELEASE NOTES
+- EBrigade OS V2
 ### *Centre OPS – Rapport de Déploiement*
 
 ---
 
-## 🟩 Version 1.0.0 — *Opération Déploiement*
+## 🟩 Version 1.0.0
+>*Opération Déploiement*
 ### *Statut : Prévu*
 
 ### 🎯 Objectif
-Déployer la première version stable du système LeBrigade OS.
+- Déployer la première version stable du système EBrigade OS.
 
 ### 🟩 Nouveautés
 - Interface TUI complète (OPS/RENSEIGNEMENT)  
@@ -28,7 +30,8 @@ Déployer la première version stable du système LeBrigade OS.
 
 ---
 
-## 🟧 Version 0.4.0 — *Opération Renforts*
+## 🟧 Version 0.4.0
+- *Opération Renforts*
 ### *Statut : En cours*
 
 ### Ajouts
@@ -38,4 +41,4 @@ Déployer la première version stable du système LeBrigade OS.
 
 ---
 
-*“Une release n’est pas un fichier. C’est un ordre de mission.”*
+>*“Une release n’est pas un fichier. C’est un ordre de mission.”*
