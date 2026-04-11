@@ -25,16 +25,6 @@
 ### 🧩 Architecture du projet
 ```text
 EBrigade/
- ├── scripts/
- │    ├── init/           # Scripts de préparation du système
- │    ├── config/         # Personnalisation Cinnamon, thèmes, services
- │    ├── security/       # Renforcement système (COMSEC)
- │    └── deploy/         # Automatisation du déploiement
- ├── assets/
- │    ├── ascii/          # Blasons, logos, bannières
- │    └── themes/         # Thèmes Cinnamon personnalisés
- ├── LICENSE.md
- └── README.md
 ```
 
 ---
@@ -45,7 +35,7 @@ EBrigade/
 - 🛡️ Module COMSEC (renforcement, audit, logs)  
 - 🧭 Menu TUI EBrigade pour piloter les scripts  
 - 📦 Système modulaire de fonctionnalité ndépendant  
-- 🟩 Identité visuelle Légion étrangère intégrée dans le TUI  
+- 🟩 Identité visuelle Légion Étrangère intégrée dans le TUI  
 
 ---
 
@@ -55,7 +45,7 @@ EBrigade/
 !/bin/bash
 ```
 
->LeBrigade - INIT OPSRENS / COMSEC
+>EBrigade - INIT OPSRENS / COMSEC
 - Préparation du système Linux 22 (Xia)
 
 ```bash
@@ -74,7 +64,7 @@ echo "[LBG-INIT] Configuration de base terminée."
 
 ---
 
-### 🖥️ TUI LeBrigade
+### 🖥️ TUI EBrigade
 >Le projet inclura un TUI en Bash, avec :
 - interface console stylisée vert/rouge  
 - menus numérotés  
@@ -85,8 +75,8 @@ echo "[LBG-INIT] Configuration de base terminée."
 ---
 
 ### 📜 Licence
-- Utilise la LICENCE Boost SOFTWATES
-- LeBrigade – Édition OPSRENS / COMSEC
+- Utilise la LICENCE Boost SOFTWARES
+- EBrigade – Édition OPSRENS / COMSEC
 - Disponible dans LICENSE
 
 ---
@@ -101,7 +91,7 @@ echo "[LBG-INIT] Configuration de base terminée."
 ---
 
 ### 📡 Objectif final
->Créer un environnement Linux entièrement personnalisable, modulaire, administré par scripts, avec une identité visuelle immersive et cohérente avec l’univers LeBrigade.
+>Créer un environnement Linux entièrement personnalisable, modulaire, administré par scripts, avec une identité visuelle immersive et cohérente avec l’univers EBrigade.
 
 ---
 
