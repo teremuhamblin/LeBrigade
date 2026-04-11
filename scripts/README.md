@@ -1,23 +1,23 @@
 README.md — markdown
 # 🟩 Dossier scripts/
-- Modules d’administration – LeBrigade OS
+- Modules d’administration – EBrigade OS
 - Base Linux 22 (Xia) – Cinnamon Edition
 
 ---
 
 ### 🎯 Mission du dossier
-- Le dossier scripts/ contient l’ensemble des modules Bash permettant de configurer, personnaliser et administrer LeBrigade OS.  
-Chaque script représente une unité opérationnelle indépendante, organisée selon une logique OPSRENS / COMSEC.
+- Le dossier scripts/ contient l’ensemble des modules Bash permettant de configurer, personnaliser et administrer EBrigade OS.  
+- Chaque script représente une unité opérationnelle indépendante, organisée selon une logique OPSRENS / COMSEC.
 
 ---
 
 ### 🧩 Structure interne
 ```text
 scripts/
- ├── init/           # Préparation du système (mise à jour, paquets, base)
- ├── config/         # Personnalisation Cinnamon, thèmes, services
- ├── security/       # Renforcement COMSEC (fictif)
- └── deploy/         # Automatisation du déploiement et des profils
+# Préparation du système (mise à jour, paquets, base)
+# Personnalisation Cinnamon, thèmes, services
+# Renforcement COMSEC
+# Automatisation du déploiement et des profils
 ```
 
 ---
